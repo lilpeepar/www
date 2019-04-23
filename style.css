@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond|Poiret+One|Press+Start+2P|Underdog');
+
+p {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 25px;
+}
+
+h1 {
+    font-family: 'Poiret One', cursive;
+    background-color:#D4A398;
+    font-size: 50px;
+}
+
+a {
+    font-family: 'Press Start 2P', cursive;
+    color: black;
+    background-color: #D4A398;
+    font-size: 18px;
+}
+
+h2 {
+    font-family: 'Poiret One', cursive;
+    background-color:#D4A398;
+    font-size: 40px;
+}
+
+.set {
+    background-color: #F6E0DF;
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 25px;
+}
+
+h3{
+    font-family: 'Poiret One', cursive;
+    background-color: #DABDC4;
+    font-size: 30px;
+}
+
+.net {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 25px;
+    background-color: #F2DAE4;
+}
+
+.www {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 25px;
+}
+
+.browser {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 25px;
+    background-color: #D1ABAF;
+}
+
+.ph {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 25px;
+    background-color: #F5CACE;
+}
+
+.site {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 25px;
+    background-color: #BDDFF0;
+}
+
+.serv {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 25px;
+    background-color: #F7DAF6;
+}
+
+.sis {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 25px;
+    background-color: #D1CCED;
+}
